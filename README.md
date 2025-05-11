@@ -2,6 +2,11 @@
 
 This script combines development rules from Windsurf (.md) and Cursor (.mdc) formats using Claude's API to analyze and merge them intelligently.
 
+## Based on scripts on X by user @build4growthsv 
+### https://x.com/build4growthsv/status/1921403190316048395
+
+Thanks for sharing!
+
 ## Setup
 
 1. **Install dependencies**:
